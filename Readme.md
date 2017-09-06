@@ -16,6 +16,9 @@ Usage: l2tp [-l,--list|-a,--add|-d,--del|-m,--mod|-h,--help]
 | l2tp -m,--mod    | Modify a user password       |
 | l2tp -h,--help   | Print this help information  |
 ```
+wget --no-check-certificate https://raw.githubusercontent.com/teddysun/across/master/l2tp.sh
+chmod +x l2tp.sh
+./l2tp.sh
 
 bbr.sh
 ======
